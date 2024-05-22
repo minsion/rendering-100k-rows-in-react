@@ -5,5 +5,5 @@
 3. Enjoy and learn!
 4. preview
 
-<img src="./preview.png" width="50%" />
+<img src="./preview.png" width="80%" />
 
