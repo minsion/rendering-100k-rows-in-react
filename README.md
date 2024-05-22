@@ -9,5 +9,5 @@ This repository provides the code shown in a specific video.
 3. Enjoy and learn!
 4. preview
 
-<img src="./preview.png" width="50%" />
+<img src="./preview.png" width="80%" />
 
